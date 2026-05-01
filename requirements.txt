@@ -1,2 +1,5 @@
-google-generativeai
+streamlit
+requests
 python-dotenv
+pytest
+google-generativeai
